@@ -1,6 +1,5 @@
 'use strict'
 
-const { URL } = require('iso-url')
 const Bignumber = require('bignumber.js').BigNumber
 
 const utils = require('./utils')

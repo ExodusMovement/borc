@@ -8,7 +8,6 @@ const utils = require('./utils')
 const c = require('./constants')
 const Simple = require('./simple')
 const Tagged = require('./tagged')
-const { URL } = require('iso-url')
 
 /**
  * Transform binary cbor data into JavaScript objects.
