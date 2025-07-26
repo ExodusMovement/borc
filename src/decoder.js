@@ -1,6 +1,5 @@
 'use strict'
 
-const { Buffer } = require('buffer')
 const ieee754 = require('ieee754')
 const Bignumber = require('bignumber.js').BigNumber
 

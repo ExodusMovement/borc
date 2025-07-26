@@ -1,7 +1,6 @@
 /* eslint-disable */
 'use strict'
 
-const { Buffer } = require('buffer')
 const stream = require('readable-stream')
 const Decoder = require('./decoder')
 const constants = require('./constants')

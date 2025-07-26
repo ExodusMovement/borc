@@ -1,6 +1,5 @@
 'use strict'
 
-const { Buffer } = require('buffer')
 const { URL } = require('iso-url')
 const Bignumber = require('bignumber.js').BigNumber
 
